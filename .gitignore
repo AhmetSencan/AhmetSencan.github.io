@@ -1,2 +1,5 @@
 _site/
 vendor
+_pages_old
+Gemfile.lock
+helper.py

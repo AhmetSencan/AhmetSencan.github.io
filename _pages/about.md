@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with flying colors from the esteemed Middle East Technical University, armed with a Bachelor's degree in Computer Engineering. But that's not all! I couldn't resist the allure of numbers and equations, so I took up Mathematics as a daring double major, giving my mind a feast of problem-solving challenges!
+I received my B.Sc. degree in Computer Engineering from Middle East Technical University in 2022. I also finished my double major in Mathematics in the same year. 
 
-Fast forward to now, and I find myself embarking on an exhilarating adventure at Ecole Polytechnique Federale de Lausanne, where I'm pursuing a Master's degree in Computer Science! 
+Currently, I am studying towards an M.Sc. degree in Computer Science at Ecole Polytechnique Federale de Lausanne, with an expected graduation in July 2024. Simultaneously, I am working as a part-time backend engineer at Edge Delta.
 
-Moreover, I'm also flexing my skills as a Part-time Backend Engineer at Edge Delta. Working there has exposed me to real-world challenges and innovative solutions, pushing my creativity and technical prowess to the limits.
-
-Oh, and let's not forget my current research interests! I'm diving headfirst into captivating fields like Computer Graphics, 3D Vision, Virtual Reality, Augmented Reality, and Image Processing.
+My research interests include Computer Graphics, 3D Vision, Virtual Reality, Augmented Reality, and Image Processing.
